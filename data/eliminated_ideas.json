@@ -1,0 +1,62 @@
+[
+  {
+    "id": "elim_1",
+    "name": "Smart Drone for Bastar Forest Fire Detection",
+    "category": "Aerial Robotics",
+    "proposed_concept": "Autonomous quadcopter drone patrolling forest canopies with thermal cameras to spot early leaf-litter fires.",
+    "rejection_reasons": [
+      "Severe regulatory and security friction: Bastar is designated as a sensitive security corridor with stringent DGCA and local police airspace restrictions on UAV flights.",
+      "Unrealistic student budget: Reliable long-endurance autonomous thermal drones cost >₹1.5 - ₹3 Lakhs, far exceeding student prototype feasibility.",
+      "High operational vulnerability: Canopy density in Sal forests obscures thermal ground signatures; maintenance in rural Bastar lacks spare motor/esc supply chains."
+    ],
+    "fatal_flaws": ["Regulatory/Security Barrier", "High Capex", "Unmaintainable in Field"]
+  },
+  {
+    "id": "elim_2",
+    "name": "Blockchain-Enabled Mahua Supply Chain Traceability Platform",
+    "category": "Software / Web3",
+    "proposed_concept": "Ethereum/Polygon smart contract ledger tracking Mahua collection from tribal gatherer to organic distillery.",
+    "rejection_reasons": [
+      "No physical prototype or hardware defensibility: Fails the requirement of building and physically demonstrating a hardware/physical prototype.",
+      "Gross mismatch with ground reality: Bastar forest gatherers lack smartphones, cellular connectivity, and digital literacy; smart contracts cannot verify whether Mahua was harvested hygienically.",
+      "Solves a non-critical symptom: The real economic loss occurs due to ground contamination and fungal rot, not lack of blockchain hashes."
+    ],
+    "fatal_flaws": ["Pure Software Cliché", "Zero Hardware Demonstrability", "Severe User Disconnect"]
+  },
+  {
+    "id": "elim_3",
+    "name": "Solar-Powered E-Rickshaw Retrofit Kit with Swappable Battery",
+    "category": "Electric Vehicles",
+    "proposed_concept": "Conversion kit converting manual cycle rickshaws or petrol autos into solar-assisted electric vehicles with swappable LFP battery packs.",
+    "rejection_reasons": [
+      "Prohibitive regulatory certification: Automotive homologation under CMVR (ARAI / ICAT) costs ₹15-30 Lakhs and takes 12-18 months, impossible for an engineering student prototype.",
+      "Capital intensity: Battery pack assembly and testing requires heavy capex, thermal testing chambers, and significant liability risk.",
+      "Crowded market with heavily funded incumbents: Startups like Altigreen, Euler Motors, and local unorganized Chinese retrofitters already dominate price-sensitive Tier-2/3 auto markets."
+    ],
+    "fatal_flaws": ["ARAI Homologation Barrier", "High Liability & Capex", "Incumbent Dominance"]
+  },
+  {
+    "id": "elim_4",
+    "name": "AI Voice Chatbot App for Tribal Tele-Medicine",
+    "category": "HealthTech Software",
+    "proposed_concept": "Mobile app using conversational LLMs fine-tuned on Gondi/Halbi to give medical advice to villagers.",
+    "rejection_reasons": [
+      "Dangerous clinical hallucinations: Large language models fine-tuned on low-resource tribal dialects risk generating fatal diagnostic errors in acute conditions (snakebite, cerebral malaria).",
+      "Lack of physical diagnostic capability: Advice without physical biological testing (turbidity, bilirubin, temperature, blood count) leaves doctors unable to prescribe treatments.",
+      "Unmonetizable business model: Tribal patients cannot pay subscription fees, and state health departments do not procure uncertified diagnostic chatbots."
+    ],
+    "fatal_flaws": ["Clinical Safety Risk", "Pure Software App", "Zero Diagnostic Moat"]
+  },
+  {
+    "id": "elim_5",
+    "name": "Smart IoT Waste Bin with Automated Sensor Lid & GSM Overflow Alert",
+    "category": "Smart Cities Cliché",
+    "proposed_concept": "Ultrasonic sensor mounted on dustbin lid with servo motor opening and GSM SMS alerts to municipal sweepers.",
+    "rejection_reasons": [
+      "Classic college hackathon cliché: One of the most overused, generic student projects; instantly rejected by serious venture investors and national judges.",
+      "Zero municipal procurement traction: Municipalities (like Jagdalpur Nagar Nigam) suffer from lack of basic waste processing infrastructure, not bin-lid automation; ultrasonic sensors get covered in grease/dirt within 2 days.",
+      "Negative unit economics: Adding ₹3,000 electronics to a ₹500 plastic bin creates vandalism and battery theft without generating revenue."
+    ],
+    "fatal_flaws": ["Generic College Cliché", "Sensor Fouling in Real Waste", "Zero Business Viability"]
+  }
+]
