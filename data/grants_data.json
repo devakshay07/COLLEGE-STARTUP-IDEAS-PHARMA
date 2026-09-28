@@ -1,0 +1,122 @@
+[
+  {
+    "id": "dst_nidhi_prayas",
+    "name": "DST NIDHI-PRAYAS",
+    "agency": "Department of Science and Technology (DST), Govt. of India",
+    "grant_amount_max_inr": 1000000,
+    "grant_amount_formatted": "Up to ₹10 Lakhs (100% Grant)",
+    "target_stage": "Proof of Concept / Early Prototype to MVP",
+    "eligible_domains": ["Hardware", "Deep-Tech", "IoT", "CleanTech", "AgriTech", "Healthcare"],
+    "equity_taken": "0%",
+    "key_benefits": "Access to PRAYAS Shala makerspace, fabrication lab, mentor network, stipend",
+    "relevance": "Ideal for hardware prototypes built by student teams requiring fabrication and testing."
+  },
+  {
+    "id": "birac_big",
+    "name": "BIRAC Biotechnology Ignition Grant (BIG)",
+    "agency": "Biotechnology Industry Research Assistance Council (BIRAC), DBT",
+    "grant_amount_max_inr": 5000000,
+    "grant_amount_formatted": "Up to ₹50 Lakhs (Grant-in-aid)",
+    "target_stage": "Validation of Proof of Concept",
+    "eligible_domains": ["Bio-Tech", "MedTech", "Diagnostics", "Bio-waste", "Industrial Bio"],
+    "equity_taken": "0%",
+    "key_benefits": "Mentoring, institutional lab access, national bio-incubator ecosystem",
+    "relevance": "Premier grant for medical diagnostics (sickle cell, jaundice, cold chain) and bio-processing."
+  },
+  {
+    "id": "sisfs",
+    "name": "Startup India Seed Fund Scheme (SISFS)",
+    "agency": "DPIIT, Ministry of Commerce and Industry",
+    "grant_amount_max_inr": 2000000,
+    "grant_amount_formatted": "Up to ₹20 Lakhs (Grant) / ₹50 Lakhs (Debt/Convertible)",
+    "target_stage": "Prototype validation, market trials, commercialization",
+    "eligible_domains": ["All DPIIT-recognized startups"],
+    "equity_taken": "0% for grant component",
+    "key_benefits": "Disbursed through approved incubators across India (e.g., 36Inc Raipur)",
+    "relevance": "Follow-on funding once an entity is incorporated and prototype is validated."
+  },
+  {
+    "id": "msme_hackathon",
+    "name": "MSME Idea Hackathon 3.0",
+    "agency": "Ministry of Micro, Small and Medium Enterprises",
+    "grant_amount_max_inr": 1500000,
+    "grant_amount_formatted": "Up to ₹15 Lakhs (100% Grant)",
+    "target_stage": "Ideation to Proof of Concept",
+    "eligible_domains": ["Manufacturing", "Agri-processing", "Rural Tech", "Clean Energy"],
+    "equity_taken": "0%",
+    "key_benefits": "Direct funding via Host Institutions (engineering colleges with approved BI status)",
+    "relevance": "Specifically allows engineering student innovators to apply directly through college."
+  },
+  {
+    "id": "cg_startup_seed",
+    "name": "Chhattisgarh Innovation & Startup Seed Grant",
+    "agency": "Commerce & Industries Dept, Govt of Chhattisgarh (Invest Chhattisgarh)",
+    "grant_amount_max_inr": 1000000,
+    "grant_amount_formatted": "Up to ₹10 Lakhs (Grant)",
+    "target_stage": "Proof of Concept / MVP",
+    "eligible_domains": ["Startups registered in Chhattisgarh with local operations"],
+    "equity_taken": "0%",
+    "key_benefits": "Sustenance allowance (₹20,000/month for founders) + Prototype grant",
+    "relevance": "Mandatory first stop for any Jagdalpur college startup registered in Chhattisgarh."
+  },
+  {
+    "id": "bastar_dmf",
+    "name": "Bastar District Mineral Foundation (DMF) Innovation Grant",
+    "agency": "District Collectorate & Bastar DMF Trust, Jagdalpur",
+    "grant_amount_max_inr": 2500000,
+    "grant_amount_formatted": "₹5 Lakhs to ₹25 Lakhs (Direct Project Grant)",
+    "target_stage": "Pilot deployment solving local high-priority district challenges",
+    "eligible_domains": ["Drinking Water", "Tribal Health", "Nutrition", "Mine Safety", "Education"],
+    "equity_taken": "0%",
+    "key_benefits": "Direct procurement and deployment across district Anganwadis, SHCs, and Ashram Shalas",
+    "relevance": "Fastest route to government field pilot and public procurement right in Bastar."
+  },
+  {
+    "id": "meity_tide",
+    "name": "MeitY TIDE 2.0 (Technology Incubation & Development of Entrepreneurs)",
+    "agency": "Ministry of Electronics and Information Technology (MeitY)",
+    "grant_amount_max_inr": 700000,
+    "grant_amount_formatted": "₹4 Lakhs (EiR) to ₹7 Lakhs (Grant)",
+    "target_stage": "ICT / Electronics / Edge AI Prototype",
+    "eligible_domains": ["IoT", "Edge Computing", "Speech Tech", "Sensors", "Robotics"],
+    "equity_taken": "0%",
+    "key_benefits": "Fellowship support for student developers and IoT prototyping hardware",
+    "relevance": "Applicable for embedded IoT, computer vision, and speech kiosks."
+  },
+  {
+    "id": "trifed_vdvy",
+    "name": "TRIFED Van Dhan Value Addition Innovation Fund",
+    "agency": "Ministry of Tribal Affairs & TRIFED",
+    "grant_amount_max_inr": 1500000,
+    "grant_amount_formatted": "Up to ₹15 Lakhs (Equipment & Demonstration Support)",
+    "target_stage": "Field deployment in Van Dhan Vikas Kendras (VDVKs)",
+    "eligible_domains": ["Minor Forest Produce Processing", "Honey", "Mahua", "Tamarind", "Millets"],
+    "equity_taken": "0%",
+    "key_benefits": "Direct integration into 300+ VDVKs across Chhattisgarh",
+    "relevance": "Direct institutional customer and scaling channel for forest produce innovations."
+  },
+  {
+    "id": "nmdc_csr",
+    "name": "NMDC CSR & Sustainable Development Innovation Support",
+    "agency": "NMDC Limited (Nagarnar Steel / Bailadila Complex)",
+    "grant_amount_max_inr": 3000000,
+    "grant_amount_formatted": "₹10 Lakhs to ₹30 Lakhs (CSR Project Funding)",
+    "target_stage": "Industrial safety, healthcare, local livelihood pilots",
+    "eligible_domains": ["Mine safety", "Clean smelting", "Local crafts", "Water remediation"],
+    "equity_taken": "0%",
+    "key_benefits": "Enterprise pilot site access at Nagarnar plant and Bailadila mines",
+    "relevance": "Local industrial giant with dedicated mandate to uplift Bastar youth and regional safety."
+  },
+  {
+    "id": "sih_hardware",
+    "name": "Smart India Hackathon (SIH) - Hardware Edition",
+    "agency": "Ministry of Education & AICTE",
+    "grant_amount_max_inr": 100000,
+    "grant_amount_formatted": "₹1 Lakh (Cash Prize) + Direct Ministry Pilot Pathway",
+    "target_stage": "Functional Working Hardware Prototype",
+    "eligible_domains": ["Smart Automation", "Clean Water", "Renewable Energy", "Healthcare", "Agriculture"],
+    "equity_taken": "0%",
+    "key_benefits": "National stage visibility, direct ministry adoption, media coverage",
+    "relevance": "Premier college competition to validate student hardware prototypes nationally."
+  }
+]

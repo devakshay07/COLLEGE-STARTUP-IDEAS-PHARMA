@@ -1,0 +1,57 @@
+{
+  "region": "Bastar Division (Jagdalpur Headquarters)",
+  "state": "Chhattisgarh, India",
+  "geography": {
+    "headquarters": "Jagdalpur",
+    "coordinates": "19.07° N, 82.03° E",
+    "major_rivers": ["Indravati", "Sabari", "Kanger"],
+    "forest_cover_percentage": "62.4% (dominated by Sal, Teak, and mixed deciduous forests)",
+    "notable_landmarks": ["Chitrakote Waterfalls", "Tirathgarh Waterfalls", "Kanger Valley National Park"]
+  },
+  "demographics_and_economy": {
+    "tribal_population_percentage": "65.8% (Gond, Maria, Muria, Dhurwa, Halba, Bhatra)",
+    "primary_livelihoods": [
+      "Minor Forest Produce (MFP) collection (Mahua, Tendu, Tamarind, Sal seeds, Harra, Bahera, Chironji, Lac)",
+      "Subsistence agriculture (Kodo, Kutki, Ragi, indigenous rice varieties)",
+      "Traditional crafts (Dhokra lost-wax bell metal, Wrought iron / Loha shilp, Terracotta, Bamboo crafts, Kosa silk)"
+    ],
+    "major_trade_hub": "Jagdalpur Mandi - recognized as one of the largest tamarind and forest produce aggregation centers in Asia",
+    "industrial_nodes": [
+      "NMDC Steel Limited (NSL) - 3 MTPA integrated steel plant at Nagarnar (16 km from Jagdalpur)",
+      "NMDC Bailadila Iron Ore Complex (Kirandul and Bacheli in adjacent Dantewada district)",
+      "TRIFOOD Park Jagdalpur (Ministry of Food Processing & TRIFED initiative for MFP value addition)"
+    ]
+  },
+  "ground_challenges": {
+    "health": [
+      "Sickle Cell Anemia carrier rate estimated at 10-15% in indigenous populations across central tribal belts",
+      "High seasonal incidence of falciparum malaria and venomous snakebites in forested terrains",
+      "Cold-chain maintenance challenges in remote Sub-Health Centres and mobile medical units"
+    ],
+    "water_and_environment": [
+      "Severe iron contamination (>3.0 mg/L) in borewells across Bastar/Dantewada due to hematitic geology",
+      "Seasonal forest fires in March-May triggered by ground leaf-litter burning for Mahua flower gathering",
+      "Over 50,000 solar dual drinking water pumps installed by CREDA facing lack of real-time telemetry"
+    ],
+    "post_harvest_losses": [
+      "Rapid perishability of high-value wild mushrooms (Boda - Termitomyces) within 36 hours",
+      "Quality degradation of Mahua flowers due to ground dirt and open-air drying, reducing farmgate prices by 40-50%",
+      "Manual tamarind deseeding resulting in high musculoskeletal strain and broken seed contamination",
+      "Kodo and Kutki small-millet hulling losses exceeding 35% in conventional rice mills"
+    ]
+  },
+  "policy_and_ecosystem": {
+    "state_policy": "Chhattisgarh Innovation and Startup Promotion Policy (2025–30)",
+    "state_seed_fund": "Up to ₹10 Lakhs seed grant for valid Proof-of-Concept (MVP) via Invest Chhattisgarh portal",
+    "state_capital_fund": "₹100 Crore Chhattisgarh Startup (Capital) Fund",
+    "district_mineral_foundation": "Bastar District Mineral Foundation (DMF) Trust - earmarks >60% funds for healthcare, drinking water, sanitation, and skill development",
+    "national_schemes": [
+      "Startup India Seed Fund Scheme (SISFS)",
+      "DST NIDHI-PRAYAS (up to ₹10 Lakhs prototype grant)",
+      "BIRAC Biotechnology Ignition Grant (BIG - up to ₹50 Lakhs)",
+      "National Sickle Cell Anemia Elimination Mission (7 crore targeted screenings)",
+      "TRIFED Van Dhan Vikas Yojana (VDVY) & Van Dhan Vikas Kendras (VDVKs)",
+      "MSME Idea Hackathon 3.0 (up to ₹15 Lakhs prototype funding)"
+    ]
+  }
+}
